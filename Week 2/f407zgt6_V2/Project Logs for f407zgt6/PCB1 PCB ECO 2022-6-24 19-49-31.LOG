@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Member From Class: ClassName=Sheet1 Member=C17
+Removed Member From Class: ClassName=Sheet1 Member=C18
+Removed Member From Class: ClassName=Sheet1 Member=Y1
+Change Room Name: Old Name=Sheet2 New Name=Sheet1
+Change Room Scope: Old Scope=InComponentClass('Sheet2') New Scope=InComponentClass('Sheet1')
